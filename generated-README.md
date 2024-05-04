@@ -1,4 +1,4 @@
-# 123
+# Title
   
   ## Table of Contents
   * [Description](#description)
@@ -13,34 +13,34 @@
   * [E-mail](#email)
   
   ## Description <a id="description"></a>
-  123
+  Description
   
   ## Technology Used <a id="technology-used"></a>
-  HTML,CSS,Javascript,API's,Third-Party API's,Server-Side API's,Node.js,OOP,Express.js
+  HTML,CSS,Javascript,API's
   
   ## Installation <a id="installation"></a>
-  123
+  install node.js
   
   ## Usage Information <a id="usage-information"></a>
   How the user will use the application and functionality of all the features.
-  123
+  functionality
   
   ## License <a id="license"></a>
-  ### MIT
-  * ![Static Badge](https://img.shields.io/badge/MIT-Badge-red?style=flat)
-  * [Link to License Page](https://opensource.org/license/mit)
+  ### Apache
+  * ![Static Badge](https://img.shields.io/badge/Apache-Badge-red?style=flat)
+  * [Link to License Page](http://www.apache.org/licenses/LICENSE-2.0)
   
   ## Contributing <a id="contributing"></a>
-  123
+  MilkyTea6
   
   ## Tests <a id="tests"></a>
   Preform tests on the application and report any bugs to the developer.
-  123
+  Tests
   
   ## Questions <a id="questions"></a>
   You can report any issues in the issues tab on Github. Or you can send any questions to the e-mail provided. 
   Be clear with what repository you are referring to and as much detail as posible.
   ### Github Profile <a id="github"></a>
-  [123's Github Profile](https://github.com/123)
+  [MilkyTea6's Github Profile](https://github.com/MilkyTea6)
   ### E-mail <a id="email"></a>
-  123
+  chrisgcpg@gmail.com
