@@ -81,7 +81,7 @@ function init() {
             const readMePageContent = generateReadMe(response);
 
             // TODO: Create a function to write README file
-            fs.writeFile('README.md', readMePageContent, (err) =>
+            fs.writeFile('generated-README.md', readMePageContent, (err) =>
                 err ? console.log(err) : console.log('Successfully created README.md file')
             );
         });
