@@ -1,4 +1,4 @@
-# 1234
+# qwe
   
   ## Table of Contents
   * [Description](#description)
@@ -13,34 +13,34 @@
   * [E-mail](#email)
   
   ## Description <a id="description"></a>
-  1234
+  qwe
   
   ## Technology Used <a id="technology-used"></a>
-  HTML,CSS,Javascript,API's,third-party API's,server-side API's,node.js,OOP,Express.js
+  HTML,CSS,Javascript,API's,Third-Party API's,Server-Side API's,Node.js,OOP,Express.js
   
   ## Installation <a id="installation"></a>
-  install
+  qwe
   
   ## Usage Information <a id="usage-information"></a>
   How the user will use the application and functionality of all the features.
-  fgunc
+  qwe
   
   ## License <a id="license"></a>
-  ### Apache
-  * ![Static Badge](https://img.shields.io/badge/Apache-Badge-red?style=flat)
-  * [Link to License Page](http://www.apache.org/licenses/LICENSE-2.0)
+  ### MIT
+  * ![Static Badge](https://img.shields.io/badge/MIT-Badge-red?style=flat)
+  * [Link to License Page](https://opensource.org/license/mit)
   
   ## Contributing <a id="contributing"></a>
-  contrib
+  lkj
   
   ## Tests <a id="tests"></a>
   Preform tests on the application and report any bugs to the developer.
-  tests
+  lkj
   
   ## Questions <a id="questions"></a>
   You can report any issues in the issues tab on Github. Or you can send any questions to the e-mail provided. 
   Be clear with what repository you are referring to and as much detail as posible.
   ### Github Profile <a id="github"></a>
-  [milkytea6's Github Profile](https://github.com/milkytea6)
+  [lkj's Github Profile](https://github.com/lkj)
   ### E-mail <a id="email"></a>
-  chris
+  lkj

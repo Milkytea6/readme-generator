@@ -13,60 +13,60 @@ const generateReadMe = require('./utils/generateMarkdown.js');
 const questions = [
     {
         type: "input",
-        message: "Enter title of the website/application. This will display at the top of the readme.",
+        message: (colors.brightBlue("Enter title of the website/application. This will display at the top of the readme.")),
         name: 'title'
     },
     {
         type: "input",
-        message: "Enter a concept or brief description of the website/application. This will display below the Description header.",
+        message: (colors.brightBlue("Enter a concept or brief description of the website/application. This will display below the Description header.")),
         name: 'description'
     },
     // Change to list type and added choices
     {
         type: "checkbox",
-        message: "Enter the technology used in the making and running of the website/application. This will display below the Technology header.",
+        message: (colors.brightBlue("Enter the technology used in the making and running of the website/application. This will display below the Technology header.")),
         name: 'technology',
         choices: ["HTML", "CSS", "Javascript", "API's", "Third-Party API's", "Server-Side API's", "Node.js", "OOP", "Express.js"]
     },
     {
         type: "input",
-        message: "Enter directions for installation or other programs needed to run. This will display below the Installation header.",
-        name: 'installation',
+        message: (colors.brightBlue("Enter directions for installation or other programs needed to run. This will display below the Installation header.")),
+        name: 'installation'
     },
     {
         type: "input",
-        message: "Enter all of the functionality of the website or application and how to navigate it. This will display below the Usage header.",
+        message: (colors.brightBlue("Enter all of the functionality of the website or application and how to navigate it. This will display below the Usage header.")),
         name: 'usage'
     },
     {
         type: 'list',
-        message: 'Choose a license from the list provided.',
+        message: (colors.brightBlue('Choose a license from the list provided.')),
         name: 'license',
         choices: ['MIT', 'Apache', 'No License']
     },
     {
         type: "input",
-        message: "Enter contributors and how the user can contribute if possible. This will display below the Contributing header.",
+        message: (colors.brightBlue("Enter contributors and how the user can contribute if possible. This will display below the Contributing header.")),
         name: 'contributing'
     },
     {
         type: "input",
-        message: "Enter how the user can set up tests, run them, and interpreting the results. This will display below the Tests header.",
+        message: (colors.brightBlue("Enter how the user can set up tests, run them, and interpreting the results. This will display below the Tests header.")),
         name: 'tests'
     },
     {
         type: "input",
-        message: "Enter future development ideas if given more time or resourses. This will display below the Future Developement header.",
+        message: (colors.brightBlue("Enter future development ideas if given more time or resourses. This will display below the Future Developement header.")),
         name: 'futureDevelopement'
     },
     {
         type: "input",
-        message: "Enter Github username for link to profile.",
+        message: (colors.brightBlue("Enter Github username for link to profile.")),
         name: 'github'
     },
     {
         type: "input",
-        message: "Enter E-mail for the user to contact the developer.",
+        message: (colors.brightBlue("Enter E-mail for the user to contact the developer.")),
         name: 'email'
     }
 
