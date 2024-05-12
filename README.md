@@ -46,4 +46,4 @@
   chrisgcpg@gmail.com
 
   ## Link to Video Demonstration
-  [Link to Screencastify Video](https://app.screencastify.com/v2/manage/videos/aueWLoV1YcUCbXi6g7FX)
+  [Link to Screencastify Video](https://drive.google.com/file/d/1TeHEu1Ml7_lPtE6BHlvDNCqjhHskrNOV/view?usp=sharing)
